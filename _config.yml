@@ -21,7 +21,7 @@ locale: en-US
 title: "So Simple"
 description: "A simple Jekyll theme for words and pictures."
 baseurl: "/"
-url: "https://https://themarkofwind.github.io/"
+url: "https://themarkofwind.github.io/"
 logo: "/images/so-simple-site-logo.png"
 date_format: "%B %-d, %Y"
 read_time: true
